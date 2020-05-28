@@ -1,4 +1,4 @@
-package shelter;
+package pets_amok;
 
 public class VirtualPetTest {
 }
