@@ -21,7 +21,6 @@
 
 - introduce ways to track:
 	- [ ] cage cleanliness for organic dogs
-	- [ ] shelter litter box cleanliness for organic cats
 	- [ ] oil/maintenance level for robot animals
 
 ### All classes
